@@ -14,6 +14,7 @@ Current, forward-looking docs stay in `my-knowledge-manager`:
 ### `knowledge-manager/implementation-plan/`
 Completed build plan for the core engine (design→code; all phases done, tests pass).
 Superseded as a live view by `roadmap/status.md` (built-vs-planned baseline) in the main repo.
+(The unbuilt `perspectives-properties-value.md` forward plan stays in the main repo, not here.)
 
 ### `knowledge-manager/learning-content/` + learning aids
 Step-by-step codebase walkthrough that teaches the code and Rust as it was built.
@@ -31,4 +32,3 @@ main repo's `design/decisions.md` / `design/model.md`:
 - `selection-and-derived-sets.md`, `derived-primary-performance.md` — derived/intensional set decision + perf follow-on.
 - `intensional-sets-and-edge-features-plan.md` — completed implementation spec (value index, intensional sets, edge reification).
 - `inter-relation-norms-and-restructure.md` — model-drift retrospective + guardrails.
-- `relationship-perspectives-and-edge-literals.md` — fundamentals/gap review (gaps now built).
